@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 174c4d09f691642b9aaaa17c45aeeaa5, type: 3}
+  m_Name: Wheel Config
+  m_EditorClassIdentifier: 
+  wheelPrefab: {fileID: 1520720993203326194, guid: 5d2d58b334696403697d739f69c70390,
+    type: 3}
+  rotSpeed: 150
+  maxHP: 9
+  hitPS: {fileID: 4675018623535435342, guid: 536ab6e66da7745598fc4e3d802639e2, type: 3}
