@@ -1,1 +1,3 @@
-# knife-hit-clone
+# Knife Hit Clone
+
+Доброго времени суток! Покрутить различные параметры можно в Game Config.
