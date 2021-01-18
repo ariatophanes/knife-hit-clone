@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Game Config
   m_EditorClassIdentifier: 
   reloadingTime: 0.25
-  chanceToSpawnApple: 1
+  chanceToSpawnApple: 0.25
   knifeConfig: {fileID: 11400000, guid: 8f5b4865263aa4046bf4089399d85099, type: 2}
   wheelConfig: {fileID: 11400000, guid: a83eb3bc2cf274ecb8f8ae791e6fc150, type: 2}
   applePrefab: {fileID: 6251864268137027611, guid: 44f548fca5e014418b01eaa1a85a0d50,

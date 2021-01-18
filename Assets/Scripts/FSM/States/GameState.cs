@@ -178,6 +178,7 @@ public class GameState : IState
     {
         disposables.Clear();
         GameObject.Destroy(ui);
+        GameObject.Destroy(knivesSpawnPoint);
         while (interactiveObjectModels.Count > 0) DestroyAllInteractiveObjectsOnScene();
     }
 
